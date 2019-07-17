@@ -6,4 +6,6 @@ kittens.push(name)
 
 return kittens
 }
-des
+function destructivelyPrependKitten(name) {
+  
+}
